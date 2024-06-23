@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.namanshrimali.moneymoney",
+            "sha256_cert_fingerprints": [
+                "D8:D1:73:2B:EA:DF:39:23:79:E7:40:9F:F9:2A:2A:65:4C:97:2D:DE:DC:C0:84:F6:2A:43:EF:EA:78:2C:26:99"
+            ]
+        }
+    }
+]
