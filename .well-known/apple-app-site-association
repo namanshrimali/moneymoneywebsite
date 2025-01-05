@@ -4,7 +4,7 @@
       "details": [
         {
           "appIDs": [
-            "877H6B3QAX.com.namanshrimali.moneymoney"
+            "877H6B3QAX.com.namanshrimali.merrymakin"
           ],
           "paths": [
             "*"
@@ -19,7 +19,7 @@
     },
     "webcredentials": {
       "apps": [
-        "877H6B3QAX.com.namanshrimali.moneymoney"
+        "877H6B3QAX.com.namanshrimali.merrymakin"
       ]
     }
   }
